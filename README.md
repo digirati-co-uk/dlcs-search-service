@@ -21,7 +21,7 @@ Initially, a placeholder for us to gather use cases as issues, and scope the req
   * ? bulk ingest, e.g. from PostgreSQL (for a mass ingest of an Elucidate instance), or from S3 (for Starsky).
   
   
-## Non-functonal requirements
+## Non-functional requirements
 
 * Elasticsearch
 * Python 3.x
