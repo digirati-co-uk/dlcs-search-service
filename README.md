@@ -26,7 +26,7 @@ Initially, a placeholder for us to gather use cases as issues, and scope the req
 * Elasticsearch
 * Python 3.x
 * Well-documented
-* 100% test coverage (might as well do this as TDD from the start)
+* 100% or as close to 100% as is practical test coverage (might as well do this with solid test coverage and documentation from the start)
 * maintainable by more than one developer (no SPOFs).
 
 
